@@ -39,11 +39,10 @@
 
 
 ## 测试
-
->  3、测试 -控制台输出-(mysql)
+> 3、测试 -控制台输出-(mysql)
 ```
 ========================================================
-https://github.com/open-plans/
+https://github.com/open-plans
 ========================================================
 执行XML方法:org.kd.dao.UserDao.queryUserForLogin
 执行的完整的sql语句-------------------mysad
